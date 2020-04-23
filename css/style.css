@@ -15,6 +15,17 @@ h1{
     font-style: italic;
     padding-top: 8%;
 }
+h2{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;    
+}
+h2 span{
+    background: #fff;
+    padding: 0 10px;
+}
 p{
     width: 100;
     color: white;
@@ -24,5 +35,4 @@ p{
 .navbar {
     margin: 0;
     background-color: black;
-
 }
